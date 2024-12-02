@@ -1,0 +1,14 @@
+F:\visual studio\c#\lab_class\bin\Debug\net8.0\lab_class.exe
+F:\visual studio\c#\lab_class\bin\Debug\net8.0\lab_class.deps.json
+F:\visual studio\c#\lab_class\bin\Debug\net8.0\lab_class.runtimeconfig.json
+F:\visual studio\c#\lab_class\bin\Debug\net8.0\lab_class.dll
+F:\visual studio\c#\lab_class\bin\Debug\net8.0\lab_class.pdb
+F:\visual studio\c#\lab_class\obj\Debug\net8.0\lab_class.GeneratedMSBuildEditorConfig.editorconfig
+F:\visual studio\c#\lab_class\obj\Debug\net8.0\lab_class.AssemblyInfoInputs.cache
+F:\visual studio\c#\lab_class\obj\Debug\net8.0\lab_class.AssemblyInfo.cs
+F:\visual studio\c#\lab_class\obj\Debug\net8.0\lab_class.csproj.CoreCompileInputs.cache
+F:\visual studio\c#\lab_class\obj\Debug\net8.0\lab_class.dll
+F:\visual studio\c#\lab_class\obj\Debug\net8.0\refint\lab_class.dll
+F:\visual studio\c#\lab_class\obj\Debug\net8.0\lab_class.pdb
+F:\visual studio\c#\lab_class\obj\Debug\net8.0\lab_class.genruntimeconfig.cache
+F:\visual studio\c#\lab_class\obj\Debug\net8.0\ref\lab_class.dll
